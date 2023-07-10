@@ -1,0 +1,2 @@
+pandoc -V documentclass=ltjarticle -V geometry:margin=20mm --latex-engine=lualatex -o x.pdf 告発状.md
+
